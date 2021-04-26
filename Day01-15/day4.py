@@ -110,7 +110,6 @@ class Day4:
                 print('*', end='')
             print()
 
-
 if __name__ == '__main__':
     day = Day4()
     # day.day4_1()
